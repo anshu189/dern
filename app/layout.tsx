@@ -15,7 +15,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className='quicksand'>
+      <body className='dark funnel'>
         <Providers>
           {children}
         </Providers>
