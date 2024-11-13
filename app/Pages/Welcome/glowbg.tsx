@@ -1,9 +1,9 @@
 "use client";
 import { motion } from "framer-motion";
-import { HeroHighlight } from "../ui/hero-highlight";
+import { HeroHighlight } from "../../components/ui/hero-highlight";
 import { Mainwelcometext } from "./main-text";
 
-export function GlowBg() {
+export function MainWelcome() {
   return (
     <HeroHighlight>
       <motion.h1

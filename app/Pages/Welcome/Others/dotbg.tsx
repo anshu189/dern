@@ -1,4 +1,4 @@
-import { Mainwelcometext } from "./main-text";
+import { Mainwelcometext } from "../../../Pages/Welcome/main-text";
 
 export function DotBackground() {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-import { Spotlight } from "../ui/Spotlight";
-import { Mainwelcometext } from "./main-text";
+import { Spotlight } from "../../../components/ui/Spotlight";
+import { Mainwelcometext } from "../main-text";
 
 export function WelcomeScreen() {
   return (
